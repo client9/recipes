@@ -3,8 +3,7 @@
 |----------------------------|--------|
 | 225g black-eyed peas (dry) | soak overnight, drain |
 | 4 links pre-cooked sausage (350g), chopped | COOK in 4qt stockpot |
-| * 1 medium onion, finely diced | ADD, cook unit almost soft |
-| * 2 stalks celery, finely diced|                            |
+| 1 medium onion, finely diced <br> 2 stalks celery, finely diced  | ADD, cook unit almost soft |
 | * 3 cloves garlic              | ADD, cook for 1m |
 | * 1T Rosemary (chopped, fresh) |   |
 | * Zest of 1 lemon              |   |
