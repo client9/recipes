@@ -16,7 +16,7 @@
 <tr><td>225g black-eyed peas (dry)</td><td>soak overnight, drain</td></tr>
 <tr><td>4 links pre-cooked sausage (350g), chopped</td>
     <td>COOK in 4qt stockpot </td></tr>
-<tr><td> 1 medium onion, finely diced <br> 2 stalks celery, finely diced<td>
+<tr><td> 1 medium onion, finely diced <br> 2 stalks celery, finely diced</td>
 <td>DD, cook unit almost soft</td></tr>
 </tbody>
 </table>
