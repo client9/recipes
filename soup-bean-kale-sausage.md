@@ -47,7 +47,7 @@ COOK until beans are soft 20-60m
 <tr><td>
 &nbsp;
 </td><td>
-Take 2C soup and blend (or use immersion blender
+Take 2C soup, blend, return (or use immersion blender)
 </td></tr>
 <tr><td>
 1 bunch kale, roughly chopped
@@ -55,7 +55,7 @@ Take 2C soup and blend (or use immersion blender
 ADD, cook until soft
 </td></tr>
 <tr><td>
-1T Rosemary (chopped, fresh)
+1T Rosemary (chopped, fresh)<br>
 More lemon zest
 </td><td>
 ADD and Serve
