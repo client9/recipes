@@ -26,8 +26,8 @@ Toss with broccolini
 GRILL, about 3.5m per side
 </td></tr>
 <tr><td>
-1T olive oil<br>
-3t lemon juice
+3t lemon juice<br>
+1T olive oil
 </td><td>
 whisk
 </td></tr>
@@ -49,21 +49,21 @@ Sam Sifton, [The New York TImes](http://cooking.nytimes.com),
 <table><tbody>
 <tr><th>Ingredients</th><th>Action</th></tr>
 <tr><td>
-3T soy sauce
-3T balsamic vinegar
+1 Head of broccoli
+</td><td>
+PREPARE, wash, trim into 1" florets
+</td></tr>
+<tr><td>
+3T soy sauce<br>
+3T balsamic vinegar<br>
 1T olive oil
 </td><td>
 WHISK
 </td></tr>
 <tr><td>
-1 Head of broccoli
-</td><td>
-PREPARE, wash, trim into 1" florets
-</td><tr>
-<tr><td>
 &nbsp;
 </td><td>
-GRILL
+COMBINE and GRILL
 </td></tr>
 </tbody></table>
 
