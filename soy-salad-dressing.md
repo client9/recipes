@@ -1,6 +1,6 @@
 # Soy Dressing
 
-Adapted from [Soy Vinaigrette Recipe](http://www.seriouseats.com/recipes/2010/04/soy-vinaigrette.html) by J. Kenji-Lopex-Alt,
+Adapted from [Soy Vinaigrette Recipe](http://www.seriouseats.com/recipes/2010/04/soy-vinaigrette.html) by J. Kenji-Lopez-Alt,
 [Serious Eats](http://www.seriouseats.com/), 2010-04-04
 
 |  Component | Ingredients |
