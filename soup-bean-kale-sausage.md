@@ -30,8 +30,8 @@ COOK in 4qt stockpot
 ADD, cook unit almost soft
 </td></tr>
 <tr><td>
-3 cloves garlic<br>
-1T Rosemary (chopped, fresh)
+3 cloves garlici, grated<br>
+1T Rosemary (chopped, fresh)<br>
 Zest of 1 lemon
 </td><td>
 ADD, cook for 1m 
