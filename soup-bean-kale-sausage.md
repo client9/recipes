@@ -22,9 +22,9 @@ COOK in 4qt stockpot
 ADD, cook unit almost soft
 </td></tr>
 <tr><td>
-3 cloves garlici, grated<br>
+3 cloves garlic, grated<br>
 1T Rosemary (chopped, fresh)<br>
-Zest of 1 lemon
+Zest of &frac12; lemon
 </td><td>
 ADD, cook for 1m 
 </td></tr>
@@ -39,7 +39,7 @@ COOK until beans are soft 20-60m
 <tr><td>
 &nbsp;
 </td><td>
-Take 2C soup, blend, return (or use immersion blender)
+Take 1C soup, blend, return (or use immersion blender)
 </td></tr>
 <tr><td>
 1 bunch kale, roughly chopped
