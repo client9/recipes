@@ -24,8 +24,6 @@ Briefly blend or manually mush ups
 1/2t pepper<br>
 </td><td>
 COOK over medium low heat for 7-8m until deep red in color
-</td><tr>
-COOK in 4qt stockpot
 </td></tr>
 <tr><td>
 1/4C Percorino Romano, grated<br>
