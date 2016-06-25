@@ -17,8 +17,8 @@ Briefly blend or manually mush ups
 &frac14;C Stemmed, Patted Dry, minced pepperoncini<br>
 2T tomato paste<br>
 1 garlic clove, minced<br>
-1t red pepper flakes<br>
 4 anchovy fillets, rinsed, dryed, minced<br>
+1t red pepper flakes<br>
 &frac12;t paprika<br>
 &frac12;t salt<br>
 &frac12;t pepper<br>
