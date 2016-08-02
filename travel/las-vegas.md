@@ -7,7 +7,7 @@ Off-Strip Restaurants
 * [Markers and Finders](https://makerslv.com/)
   3782 S. Las Vegas Blvd.  Las Vegas, NV 89109
 * [Sambalatte](http://sambalatte.com)
-  Various, one is in Monte Carlo
+  Various, one is in Monte Carlo and very good.
 
 ### Thai
 
@@ -20,7 +20,7 @@ Off-Strip Restaurants
   Reservations by phone: 702-641-1345, Closed Mondays
   12m from Cosmopolitan
 * [Lotus of Siam](http://lotusofsiamlv.com)
-  [953 E Sahara Ave, Vegas, NV 89104]()
+  [953 E Sahara Ave, Vegas, NV 89104](https://www.google.com/maps/place/Lotus+of+Siam/@36.143618,-115.1449749,17z/data=!3m1!4b1!4m5!3m4!1s0x80c8c47decbe13bf:0x601671d9c1b61a37!8m2!3d36.1436137!4d-115.1427862)
 
 ### Japanese
 
@@ -61,7 +61,7 @@ Off-Strip Restaurants
   [Yelp](http://www.yelp.com/biz/mr-mamas-las-vegas-7)
   5693 S Jones Blvd Ste 106, Las Vegas, NV 89118
 * [Egg and I](http://eggandi.com)
-   Multiple LOcations
+   Multiple Locations
    4533 West Sahara Avenue
 * Black Bear Diner
   [TripAdvisor](https://www.tripadvisor.com/Restaurant_Review-g45963-d492226-Reviews-Black_Bear_Diner-Las_Vegas_Nevada.html)
