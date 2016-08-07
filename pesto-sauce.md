@@ -1,6 +1,6 @@
 # Basil Pesto
 
-adapted from Essentials of Italian Cooking.
+adapted from <a href="https://read.amazon.com/kp/embed?asin=B0054KMKKO&asin=B0054KMKKO&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_1WPPxbTJJ17X8">Essentials of Italian Cooking</a>
 
 <table>
 <tbody>
