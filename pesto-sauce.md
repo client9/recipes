@@ -6,7 +6,12 @@ adapted from Essentials of Italian Cooking.
 <tbody>
 <tr><th>Ingredients</th><th>Action</th></tr>
 <tr><td>
-2C basil leaves, tightly packed<br>
+2C basil leaves, tightly packed
+</td><td>
+Soak and wash leaves<br>
+dry with paper towels or spinner
+</td></tr>
+<tr><td>
 &frac12; C Olive Oild<br>
 3T pine nuts</br>
 2 garlic cloves, chopped fine<br>
