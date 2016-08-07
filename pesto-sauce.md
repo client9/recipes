@@ -6,14 +6,14 @@ adapted from Essentials of Italian Cooking.
 <tbody>
 <tr><th>Ingredients</th><th>Action</th></tr>
 <tr><td>
-2C basil leaves, tightly packed
+50-60g or 2C basil leaves, tightly packed
 </td><td>
 Soak and wash leaves<br>
 dry with paper towels or spinner
 </td></tr>
 <tr><td>
-&frac12; C Olive Oild<br>
-3T pine nuts</br>
+&frac12;C Olive Oil<br>
+50g or 3T pine nuts</br>
 2 garlic cloves, chopped fine<br>
 &frac14;t salt
 </td><td>
@@ -22,7 +22,7 @@ Blend until creamy
 </td></tr>
 <tr><td>
 25g / &frac12; parmigiano-reggiano, grated<br>
-    / 2T romano cheese, grated
+6g  / 2T romano cheese, grated
 </td>
 <td>
 Mix in by hand
@@ -34,6 +34,6 @@ mix in
 </td></tr>
 </table>
 
-* For 1&frac12; pounds pasta.
-* When add a few table spoons of pasta water to dillute.
+* For 1&frac12; pounds pasta, use spaghetti or potato gnocci.
+* Use a few table spoons of pasta water to dillute when serving.
 `
