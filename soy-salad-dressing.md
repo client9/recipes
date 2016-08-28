@@ -7,7 +7,7 @@ Adapted from [Soy Vinaigrette Recipe](http://www.seriouseats.com/recipes/2010/04
 |------------|-------------|
 |  Oil            | &frac12; C Canola/Veg Oil<br> &frac14; C Olive Oil |
 |  Acid           | 2T White Vinegar (neutral)<br> 2T Sherry/Wine Vinegar |
-|  Emulsifer      | &frac14;t Dijon Mustard |
+|  Emulsifer      | 4t Dijon Mustard |
 |  Spice          | 1T Soy sauce<br> 1T minced shallot<br> 1t minced garlic <br>&frac12;t salt<br>&frac14;t pepper |
 
 Mix!
