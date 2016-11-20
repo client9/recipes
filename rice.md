@@ -8,6 +8,16 @@ no idea what is going on.
 
 Using grams is the pro-move in all cooking, and this is no exception.
 
+This is the process that minimizes effort and is the most
+accurate.
+
+1. Put empty rice bowl on scale, and zero.
+2. Add rice to the desired amount.
+3. Remove bowl from scale and rinse rice as needed
+4. Return bowl to scale and add enough water
+   so the total is correct.
+5. Cook it.
+
 ## Regular Rice
 
 
@@ -18,14 +28,20 @@ Using grams is the pro-move in all cooking, and this is no exception.
 |  Rice      | 150g        |
 |  Water     | 350g        |
 
+Total: 500g
+
 Use Brown Rice setting on rice cooker
 
 ## Mochi Genmai (Special Brown Rice)
+
+Mochi genmai requires less water.
 
 |  Component | Ingredients |
 |------------|-------------|
 |  Rice      | 150g        |
 |  Water     | 300g        | 
+
+Total: 450g
 
 Use Brown Rice setting on rice cooker
 
