@@ -18,8 +18,16 @@ accurate.
    so the total is correct.
 5. Cook it.
 
-## Regular Rice
+## White Rice, ECO mode
 
+This ratio is for "ECO Mode" which takes longer, and uses less water.
+
+|  Component | Ingredients |
+|------------|-------------|
+|  Rice      | 150g        |
+|  Water     | 250g        |
+
+*TOTAL: 400*
 
 ## Genmai (Brown Rice)
 
@@ -28,7 +36,7 @@ accurate.
 |  Rice      | 150g        |
 |  Water     | 350g        |
 
-Total: 500g
+*Total: 500g*
 
 Use Brown Rice setting on rice cooker
 
@@ -41,7 +49,7 @@ Mochi genmai requires less water.
 |  Rice      | 150g        |
 |  Water     | 300g        | 
 
-Total: 450g
+*Total: 450g*
 
 Use Brown Rice setting on rice cooker
 
