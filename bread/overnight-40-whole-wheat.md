@@ -8,7 +8,7 @@
 200g Whole Wheat Flour<br>
 400g Water (90-95 degrees)
 </td><td>Combine, Rest for 20m</td></tr>
-<tr><td>0:20<td><td>
+<tr><td>0:20</td><td>
 11g Salt<br>
 1.5g Yeast</td><td>
 MIX, combine until dough is 77-78 degrees
