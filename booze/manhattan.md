@@ -15,7 +15,9 @@ Stir, Strain
 </table>
 
 
-References:
-* drinking
+## References
+
 * [Essential Cocktails: How to Make, and Where to Find, the Perfect Manhattan](http://www.lamag.com/liquidlablog/essential-cocktails-how-to-make-and-where-to-find-the-perfect-manhattan/) Los Angeles Magazine, 2013-01-18
+* [The Manhattan by THE RAKISH BON VIVANT](http://duncanquinn.com/dance-with-the-one-that-brough-you-the-manhattan/)  On site for bespoke suites.
+
 
