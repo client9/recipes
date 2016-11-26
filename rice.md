@@ -29,7 +29,17 @@ This ratio is for "ECO Mode" which takes longer, and uses less water.
 
 *TOTAL: 400*
 
-## Genmai (Brown Rice)
+## JyuKokuMai, 10-Grain Rice
+
+**BETA**
+
+| Component  | Ingredients |
+|------------|-------------|
+|  Rice      | 150g        |
+|  Water     | 275g        |
+|  Grains    |  15g        |
+
+## Brown Rice
 
 |  Component | Ingredients |
 |------------|-------------|
